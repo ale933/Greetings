@@ -5,8 +5,8 @@
  * @description Greetings for each log
  * @website https://alesira.pythonanywhere.com/
  * @authorLink https://www.instagram.com/aleiracusa9026/
+ * @source https://github.com/ale933/Greetings/blob/main/greetings.plugin.js
  */
-
  
 
 module.exports = class name{
